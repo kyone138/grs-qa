@@ -16,8 +16,6 @@ The dataset includes:
 - MuSiQue reasoning graphs
 - 2WikiMultiHopQA reasoning graphs
 - GSM8K reasoning graphs
-- Positive reasoning graphs
-- Negative reasoning graphs
 
 ## Notes
 
