@@ -16,7 +16,3 @@ The dataset includes:
 - MuSiQue reasoning graphs
 - 2WikiMultiHopQA reasoning graphs
 - GSM8K reasoning graphs
-
-## Notes
-
-Please download and extract the dataset locally before running experiments.
